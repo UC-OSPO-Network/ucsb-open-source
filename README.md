@@ -29,8 +29,9 @@ here with Logan’s encouragement and permission.
 
 ## Staff Departments
 
-- [Research Data Services](https://github.com/UCSB-Library-Research-Data-Services)
+- [Digital Library Development](https://gitlab.com/ucsb-library)
 - [DREAM Lab](https://github.com/ucsb-dreamlab)
+- [Research Data Services](https://github.com/UCSB-Library-Research-Data-Services)
 
 ## Staff Groups
 
@@ -38,4 +39,17 @@ here with Logan’s encouragement and permission.
 
 ## Projects
 
-- TODO!
+### Earth and Planetary Sciences
+- [metajam](https://cran.r-project.org/web/packages/metajam/index.html)
+    - Download data and metadata from repositories in the DataONE network and read them into R.
+
+### Library and Information Sciences
+- [Project Surfliner](https://surfliner.ucsd.edu/about/)
+    - See also: [GitLab repo](https://gitlab.com/surfliner)
+    - A suite of products and components for digital library infrastructure.
+
+### Discipline-agnostic
+- [ocfl-go](https://github.com/srerickson/ocfl-go)
+    - A Go implementation of the [Oxford Common File Layout](https://ocfl.io/) specification.
+- [ocfl-tools](https://github.com/srerickson/ocfl-tools)
+    - A command line tool for working with [Oxford Common File Layout](https://ocfl.io/)-based repositories.
