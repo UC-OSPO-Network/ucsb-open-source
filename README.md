@@ -47,8 +47,6 @@ here with Logan’s encouragement and permission.
 - [Project Surfliner](https://surfliner.ucsd.edu/about/)
     - See also: [GitLab repo](https://gitlab.com/surfliner)
     - A suite of products and components for digital library infrastructure.
-
-### Discipline-agnostic
 - [ocfl-go](https://github.com/srerickson/ocfl-go)
     - A Go implementation of the [Oxford Common File Layout](https://ocfl.io/) specification.
 - [ocfl-tools](https://github.com/srerickson/ocfl-tools)
